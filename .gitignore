@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac
+.DS_Store
+
+# Large raw data
+data/raw/
+data/processed/
+
+# Generated reports
+reports/
+
+# Temporary files
+*.zip
+*.tar.gz
+*.log
